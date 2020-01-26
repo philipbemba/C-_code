@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estatement.Api", "Estatement.Api\Estatement.Api.csproj", "{20FBB840-EF45-4533-B6A6-32ECA4B35240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experian.Api", "Experian.Api\Experian.Api.csproj", "{378C4279-895C-4A72-A092-CA60A81689A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FBB840-EF45-4533-B6A6-32ECA4B35240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FBB840-EF45-4533-B6A6-32ECA4B35240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FBB840-EF45-4533-B6A6-32ECA4B35240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FBB840-EF45-4533-B6A6-32ECA4B35240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378C4279-895C-4A72-A092-CA60A81689A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378C4279-895C-4A72-A092-CA60A81689A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378C4279-895C-4A72-A092-CA60A81689A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378C4279-895C-4A72-A092-CA60A81689A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E16843-CC9C-49C9-A244-71DF31E1688E}
+	EndGlobalSection
+EndGlobal
