@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "functions": ["CheckCreditPost"],
+  "logging": {
+    "logLevel": {
+      "Experian.Api": "Information"
+    }
+  }
+}
