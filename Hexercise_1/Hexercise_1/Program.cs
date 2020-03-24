@@ -6,7 +6,7 @@ namespace Hexercise_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!Again");
+            Console.WriteLine("Hello World!Again!Merge conflict");
         }
     }
 }
